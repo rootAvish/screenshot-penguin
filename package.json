@@ -1,0 +1,26 @@
+{
+  "name": "screenshot-penguin",
+  "version": "0.0.1",
+  "description": "A better screenshot taking app for Linux, only.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rootavish/screenshot-penguin"
+  },
+  "keywords": [
+    "screenshots",
+    "Linux"
+  ],
+  "author": "rootavish",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rootavish/screenshot-penguin/issues"
+  },
+  "homepage": "https://github.com/rootavish/screenshot-penguin",
+  "dependencies": {
+    "imgur": "^0.1.6"
+  }
+}
